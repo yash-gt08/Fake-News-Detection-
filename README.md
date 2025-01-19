@@ -21,4 +21,4 @@ Model Architecture:
 4) Captured sequence context using a Bidirectional LSTM Layer.
 5) Output predictions with a Dense Layer.
 
-Results : achieved 97% accuracy in classifying news articles as real or fake.
+Results : Achieved 97% accuracy in classifying news articles as real or fake.
